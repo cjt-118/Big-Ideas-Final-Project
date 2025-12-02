@@ -3,6 +3,8 @@
 This repository contains the final project for **Group 7** in the University of Pittsburgh’s *Big Ideas* course.  
 Our goal was to determine which Pittsburgh neighborhood can be considered the **"best"** based on a combination of quantitative metrics from publicly available data.
 
+# Group Name - Heroes of Pittsburgh
+
 ---
 
 ## ** Team Members & Metrics**
