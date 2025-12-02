@@ -5,7 +5,7 @@ Our goal was to determine which Pittsburgh neighborhood can be considered the **
 
 ---
 
-## **📊 Team Members & Metrics**
+## ** Team Members & Metrics**
 
 ### **Roger Torres**  
 - **Email:** ROT91@pitt.edu  
@@ -25,7 +25,7 @@ Our goal was to determine which Pittsburgh neighborhood can be considered the **
 
 ---
 
-## **📝 Project Description**
+## ** Project Description**
 
 To determine the **"best" neighborhood in Pittsburgh**, our group analyzed four different metrics:
 
@@ -38,7 +38,7 @@ By comparing these metrics across neighborhoods, we aimed to identify which area
 
 ---
 
-## **🔗 Datasets Used**
+## ** Datasets Used**
 
 - **Economic Advantage (Aggregate Household Income)**  
   [ACS 2014 Household Income Dataset](https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2014-miscellaneous-data/resource/41d215a7-6baf-4de8-8593-d25c858d3546)
@@ -47,12 +47,7 @@ By comparing these metrics across neighborhoods, we aimed to identify which area
   [Pittsburgh Fire Incidents Dataset](https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh/resource/8d76ac6b-5ae8-4428-82a4-043130d17b02)
 
 - **Non-Traffic Citations**  
-  *(Link coming soon)*
+  *(Dont have link yet)*
 
 - **Crimes**  
-  *(Link coming soon)*
-
----
-
-## **📁 Repository Structure**
-
+  *(Do not have link)*
