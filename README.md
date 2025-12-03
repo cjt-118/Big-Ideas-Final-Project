@@ -49,7 +49,7 @@ By comparing these metrics across neighborhoods, we aimed to identify which area
   [Pittsburgh Fire Incidents Dataset](https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh/resource/8d76ac6b-5ae8-4428-82a4-043130d17b02)
 
 - **Non-Traffic Citations**  
-  *(Dont have link yet)*
+  [Non-Traffic Citations in Pittsburgh](https://data.wprdc.org/dataset/non-traffic-citations)
 
 - **Crimes**  
   *(Do not have link)*
